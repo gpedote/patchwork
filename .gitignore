@@ -2,7 +2,10 @@
 *~
 *.iml
 logs
-project/*
+project/boot/
+project/plugins/project/
+project/project/
+project/target/
 target/*
 tmp
 .git/
